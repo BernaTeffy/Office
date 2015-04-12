@@ -1,1 +1,2 @@
-Thýs ýs a test fýle for gýthub
+This is a test github file
+Dont forget to commit the changes
